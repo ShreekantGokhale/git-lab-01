@@ -3,3 +3,5 @@
 =======
 # Git Lab Project (Feature Branch Version)
 >>>>>>> feature-title-change
+Directly edited on GitHub
+>>>>>>> 
